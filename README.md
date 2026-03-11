@@ -1,16 +1,42 @@
-## Hi there 👋
+#                   தென்னாடுடைய சிவனே போற்றி 
 
-<!--
-**pbpooja2006/pbpooja2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#                எந்நாட்டவர்க்கும் இறைவா போற்றி 🙏  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi there, I'm Poojiii
+
+💻 Engineering student exploring the world of **technology, logic, and creativity**.
+🚀 Curious builder who enjoys solving problems and turning ideas into working systems.
+🌱 Currently learning and growing in **full-stack development and programming**.
+
+## Skills & Technologies
+
+### 💻 Programming
+
+* Java 
+* C Programming
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+
+### 🗄️ Database
+
+* MySQL
+
+### 🛠️ Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+
+## Currently Exploring
+
+* Backend development
+* System design basics
+* Building meaningful projects
+
+ *"**If you want to enjoy success, before you engineer situations, first of all you have to engineer yourself**"*✨
